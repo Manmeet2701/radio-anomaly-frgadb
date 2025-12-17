@@ -33,3 +33,9 @@ threshold-based anomaly detection.
 
 ## Notes
 This project is intended for academic and research purposes.
+## Dataset Citation
+FRGADB: Fast Radio Galaxy Anomaly Detection Benchmark  
+Available at: https://zenodo.org/records/13773680
+
+If you use this dataset, please cite the original authors.
+
